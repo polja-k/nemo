@@ -139,6 +139,3 @@ let mySprite = sprites.create(img`
     . . . . . . f f f f d d d f . . 
     . . . . . . . . . . f f f . . . 
     `, SpriteKind.Player)
-let invicibilityperiod = 600
-let pixelstometers = 30
-let gravity = 9.81 + pixelstometers
